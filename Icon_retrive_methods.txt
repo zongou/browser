@@ -1,0 +1,5 @@
+https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL
+https://favicon.yandex.net/favicon/bing.com
+https://www.google.com/s2/favicons?domain_=bing.com
+https://www.google.com/s2/favicons?domain_url=bing.com
+chrome://favicon/size/32@1x/http://bing.com
