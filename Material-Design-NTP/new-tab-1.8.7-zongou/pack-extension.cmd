@@ -1,1 +1,0 @@
-start E:\portable_softwares\Chrome-Portable\chrome.exe --pack-extension="C:\Users\zongou\new-tab-1.8.8\dist" --pack-extension-key="E:\web\operating\Material-Design-NTP.pem"

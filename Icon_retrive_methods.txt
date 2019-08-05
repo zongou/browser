@@ -1,9 +1,0 @@
-Using ".cn" if necessary to make sure these works
-https://favicon.yandex.net/favicon/bing.com
-https://www.google.com/s2/favicons?domain_=bing.com
-https://www.google.com/s2/favicons?domain_url=bing.com
-chrome://favicon/size/32@1x/http://bing.com
-https://tbn0.gstatic.com/faviconV2?url=https://bing.com&client=chrome&drop_404_icon=true&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL
-  Client can be NEWS_360, chrome, AFS
-  tbn0 can be substituted with encrypted-tbn2, tbn1, tbn3 etc…
-  Remove "&drop_404_icon=true" to always get an icon
